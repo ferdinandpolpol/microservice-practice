@@ -1,4 +1,3 @@
 docker-compose.override.yml
 
-node/node_modules/
-*node_modules/*
+*node_modules/
